@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "projects": "Projectos",
+    "about": "Sobre",
+    "contact": "Contactos",
+    "work": "Trabalho"
+  },
+  "contacts": {
+    "title": "Contacte-me",
+    "description": "À procura de parceria ou de um colaborador? Sinta-se à vontade para entrar em contacto comigo por e-mail ou conectar-se comigo no LinkedIn."
+  },
+  "email": {
+    "subject": "Pedido de contacto",
+    "body": "Olá, gostaria de te apresentar uma oportunidade para a qual achamos que és a pessoa ideal. Obrigado"
+  },
+  "hero": {
+    "title": "Olá, sou Jorge Santos",
+    "jobTitle": "Engenheiro",
+    "description": "Engenheiro Backend especializado em Java e Spring Boot, com experiência no desenvolvimento de microserviços escaláveis para plataformas de banca digital. Atualmente desempenho responsabilidades de liderança técnica, incluindo revisão de código, mentoria de programadores, definição de standards de desenvolvimento e colaboração direta com equipas do cliente. Apaixonado pelo desenvolvimento de soluções backend robustas, arquitetura de software, melhoria contínua das práticas de engenharia e entrega de software seguro e de elevada qualidade"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "work": "Work"
+  },
+  "contacts": {
+    "title": "Contact Me",
+    "description": "Looking to partner or work together? Feel free to reach out to me via email or connect with me on LinkedIn."
+  },
+  "email": {
+    "subject": "Contact Request",
+    "body": "Hello, I would like to present you an opportunity for which we think you are the ideal person. Thank you"
+  },
+  "hero": {
+    "title": "Hi, I'm Jorge Santos",
+    "jobTitle": "Engineer",
+    "description": "Backend Engineer specializing in Java and Spring Boot, with experience developing scalable microservices for digital banking platforms. Currently responsible for technical leadership activities, including code reviews, mentoring, defining development standards and collaborating directly with client teams. Passionate about designing maintainable backend architectures, improving engineering practices and delivering secure, high-quality software"
+  }
+}
